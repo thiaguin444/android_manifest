@@ -121,7 +121,6 @@
   <!-- Packages (Apps) -->
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Nfc" />
-  <remove-project name="platform/packages/apps/Settings" />
 
   <!-- Packages (Modules) -->
   <remove-project name="platform/packages/modules/Bluetooth" />
